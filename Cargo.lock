@@ -1,4 +1,3 @@
 [[package]]
-name = "rust_fahrenheight_to_celcius"
+name = "rust_fahrenheit_to_celsius"
 version = "0.1.0"
-

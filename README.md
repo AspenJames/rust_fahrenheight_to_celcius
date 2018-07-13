@@ -1,11 +1,11 @@
-# Fahrenheight to Celcius Converter 
+# Fahrenheit to Celcius Converter
 
-This is a simple command line interface to convert Fahrenheight to Celcius written entirely in Rust.
+This is a simple command line interface to convert Fahrenheit to Celcius written entirely in Rust.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. The license can be viewed [here](https://github.com/AspenJames/rust_fahrenheight_to_celcius/blob/master/LICENSE)
+This project is licensed under the GNU General Public License v3.0. The license can be viewed [here](https://github.com/AspenJames/rust_fahrenheit_to_celcius/blob/master/LICENSE)
 
-## Contributing 
+## Contributing
 
-All contributions are expected to follow the Code of Conduct laid out in [CONTRIBUTING.md](https://github.com/AspenJames/rust_fahrenheight_to_celcius/blob/master/CONTRIBUTING.md).
+All contributions are expected to follow the Code of Conduct laid out in [CONTRIBUTING.md](https://github.com/AspenJames/rust_fahrenheit_to_celcius/blob/master/CONTRIBUTING.md).
