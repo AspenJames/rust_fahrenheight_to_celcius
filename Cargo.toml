@@ -1,0 +1,6 @@
+[package]
+name = "rust_fahrenheight_to_celcius"
+version = "0.1.0"
+authors = ["AspenJames <aspenjames@tqca.org>"]
+
+[dependencies]
