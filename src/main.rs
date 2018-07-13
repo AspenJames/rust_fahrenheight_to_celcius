@@ -1,12 +1,12 @@
 use std::io;
 
 fn main() {
-    println!("Convert Fahrenheit to Celcius");
+    println!("Convert Fahrenheit to Celsius");
     println!("Enter the temperature in Fahrenheit:");
     // init a variable to store our user input
     let temp = get_input();
-    let celcius = convert_temp(&temp);
-    println!("{} degrees Fahrenheit is equal to {} degrees Celcius.", temp, celcius);
+    let celsius = convert_temp(&temp);
+    println!("{} degrees Fahrenheit is equal to {} degrees Celsius.", temp, celsius);
 }
 
 fn get_input() -> f64 {

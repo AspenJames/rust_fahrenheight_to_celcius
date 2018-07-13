@@ -1,6 +1,6 @@
-# Fahrenheit to Celcius Converter
+# Fahrenheit to Celsius Converter
 
-This is a simple command line interface to convert Fahrenheit to Celcius written entirely in Rust.
+This is a simple command line interface to convert Fahrenheit to Celsius written entirely in Rust.
 
 ## License
 
