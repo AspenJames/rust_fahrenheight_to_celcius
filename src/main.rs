@@ -14,7 +14,7 @@ fn get_input() -> f64 {
     // read input and store in temp
     io::stdin().read_line(&mut temp)
         .expect("Failed to red line");
-    // convert temp from string to f64
+    // convert temp from String to f64
     let temp: f64 = match temp.trim().parse() {
         // if temp can be parsed into f64, return that f64
         Ok(num) => num,
